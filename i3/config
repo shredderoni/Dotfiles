@@ -203,7 +203,7 @@ mode "resize"{
 
 bindsym Mod4+r mode "resize"
 
-client.focused              #458588 #98971a #d79921
+client.focused              #8be9fd #bd93f9 #50fa7b
 # client.unfocused              #00000000 #00000000 #00000000
 
 #gaps
