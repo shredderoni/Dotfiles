@@ -58,7 +58,7 @@
 	bindsym Mod4+Return exec alacritty
 
 	# start a browser
-	bindsym Mod4+w exec firefox
+	bindsym Mod4+w exec qutebrowser
 
 	# kill focused window
 	bindsym Mod4+c kill
