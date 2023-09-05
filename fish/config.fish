@@ -4,4 +4,7 @@ if status is-interactive
     neofetch
 end
 set fish_greeting
+alias 'nv' 'nvim'
+alias 'pip' '~/venv/bin/pip'
+alias 'python' '~/venv/bin/python'
 starship init fish | source
