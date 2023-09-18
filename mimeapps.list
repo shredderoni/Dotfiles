@@ -1,0 +1,5 @@
+[Default Applications]
+application/pdf=org.qutebrowser.qutebrowser.desktop
+
+[Added Associations]
+application/pdf=org.qutebrowser.qutebrowser.desktop;
